@@ -1,9 +1,10 @@
 **Basic Info**
 <!--- #  If you know these details please fill them in. --->
-Discord Name(If Applicable) : 
-CPU:
-GPU:
-Operating System: 
+
+Discord Name(If Applicable):   
+CPU:  
+GPU:  
+Operating System:   
 
 **Summary**
 <!--- Summarise the bug you encountered.
