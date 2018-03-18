@@ -9,9 +9,9 @@ You’re probably already used to typing your bugs in the Discord bug-reports ch
 https://github.com/dapperrobotbear/Stage9
 
 1. Go ^ there, and Sign Up. Make whatever account/password you want. On the second page it says Choose Your Plan. Keep the free one, it doesn’t matter. Unlimited Public Repositories. Don’t bother with the other checkboxes. Page 3 is about you. You can choose Skip this Step at the bottom. After that, please go to your email to verify your account. You can then click this above link again to take you back to the Stage 9 github.
-At the top, you’ll see some tabs, and you’ll already be on <code>. See the tab “Issues”? Click that. You’ll see a list of issues in there.
+At the top, you’ll see some tabs, and you’ll already be on "code". See the tab “issues”? Click that. You’ll see a list of issues in there.
 
-2. CHECK THESE “Issues” to make sure your bug is not already there!!!
+2. CHECK THESE “issues” to make sure your bug is not already there!!!
 
 No, really. CHECK THESE to make sure your bug is not already there!!! Memorize them if you have to! GO INTO EACH ONE as some may have multiple bugs! They will be rearranged and notated a LOT so pay close attention!
 
