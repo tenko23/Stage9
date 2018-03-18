@@ -3,6 +3,7 @@
 Discord Name(If Applicable) : 
 CPU:
 GPU:
+Operating System: 
 
 **Summary**
 <!--- Summarise the bug you encountered.
