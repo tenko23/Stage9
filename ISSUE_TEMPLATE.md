@@ -1,3 +1,7 @@
+<!--- ^^ PLEASE SET THE TITLE TO FOLLOW THIS STYLE
+          VersionNumber - Deck - Room/Location - Brief Description of Issue
+          e.g: V0010 - Deck 8 - Near Captains Quarters - Missing Wall
+--->
 **Basic Info**
 <!--- #  If you know these details please fill them in. --->
 
